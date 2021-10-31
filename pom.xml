@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.hm</groupId>
+    <artifactId>maven_springBoot</artifactId>
+    <packaging>pom</packaging>
+    <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>hm_springBootday01_01Springboot_Demo</module>
+        <module>hmleyou_springBootday01_01Springboot_Demo</module>
+        <module>hmleyou_springBootday01_02Springboot_Demo</module>
+        <module>hmleyou_springBootday01_02Springboot_DemoPlus</module>
+        <module>hmleyou_springBootday02_01Springboot_PutInto01</module>
+        <module>hmleyou_springBootday02_02Springboot_PutInto02</module>
+        <module>hmleyou_springBootday02_03Springboot_PutInto03</module>
+        <module>hmleyou_springBootday02_04Springboot_PutInto04</module>
+        <module>hmleyou_springBootday03_01Springboot_SpringMVC</module>
+        <module>hmleyou_springBootday03_02Springboot_Mybatis</module>
+        <module>hmleyou_springBootday03_03Springboot_TotalSSM</module>
+        <module>hmleyou_springBootday03_04Springboot_Thymeleaf</module>
+    </modules>
+
+    <!--SpringBoot要求，项目要继承SpringBoot的起步依赖spring-boot-starter-parent-->
+    <parent>
+        <groupId>org.springframework.boot</groupId>
+        <artifactId>spring-boot-starter-parent</artifactId>
+        <version>2.0.1.RELEASE</version>
+    </parent>
+
+    <dependencies>
+        <!--SpringBoot要集成SpringMVC进行Controller的开发，所以项目要导入web的启动依赖-->
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-web</artifactId>
+        </dependency>
+
+        <!--热部署配置-->
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-devtools</artifactId>
+        </dependency>
+
+    </dependencies>
+
+
+</project>

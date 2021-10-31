@@ -1,0 +1,22 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.controller.YmlController",
+      "name": "person",
+      "type": "com.controller.YmlController"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.controller.YmlController",
+      "name": "person.addr",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.controller.YmlController",
+      "name": "person.name",
+      "type": "java.lang.String"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="GBK">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hm_springBootday01_01Springboot_Demo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hm_springbootday02_01springboot_mybatis" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hm_springbootday03_01springboot_jpa" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hmleyou_springBootday01_01Springboot_Demo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hmleyou_springBootday01_02Springboot_Demo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hmleyou_springBootday01_02Springboot_DemoPlus" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hmleyou_springBootday02_01Springboot_PutInto01" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hmleyou_springBootday02_02Springboot_PutInto02" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hmleyou_springBootday02_03Springboot_PutInto03" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hmleyou_springBootday02_04Springboot_PutInto04" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hmleyou_springBootday03_01Springboot_SpringMVC" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hmleyou_springBootday03_02Springboot_Mybatis" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hmleyou_springBootday03_03Springboot_TotalSSM" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hmleyou_springBootday03_04Springboot_Thymeleaf" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

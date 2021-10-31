@@ -1,0 +1,26 @@
+一、流程：
+   1、
+   2、
+   3、
+   4、
+   5、
+
+二、遇见的问题：
+    1、Failed to configure a DataSource: 'url' attribute is not specified and no embedded datasource could be configured.
+       Error starting ApplicationContext. To display the conditions report re-run your application with 'debug'
+       解决：
+            配置数据源：（写这两句即可改好）
+                spring.datasource.driver-class-name=com.mysql.jdbc.Driver
+                spring.datasource.url=jdbc:mysql://ip:端口号/数据库名称?useSSL=false&useUnicode=true&characterEncoding=utf8&serverTimezone=GMT%2B8
+
+    2、java.sql.SQLException: Access denied for com.user 'root '@'localhost' (using password: YES)
+        这个问题是最坑的，就因为一个空格问题！！
+            #Database
+            spring.datasource.driver-class-name=com.mysql.jdbc.Driver
+            spring.datasource.url=jdbc:mysql://127.0.0.1:3306/springboot?useSSL=false&useUnicode=true&characterEncoding=utf8&serverTimezone=GMT%2B8
+            useUnicode=true&characterEncoding=utf8
+            spring.datasource.username=root
+            spring.datasource.password=123456
+         解决：
+            在username和password后面不能有空格，在datasource.properties 中的username 的值root后面多写了一个空格
+

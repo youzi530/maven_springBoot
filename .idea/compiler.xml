@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="hmleyou_springBootday03_04Springboot_Thymeleaf" />
+        <module name="hmleyou_springBootday01_02Springboot_DemoPlus" />
+        <module name="hmleyou_springBootday01_01Springboot_Demo" />
+        <module name="hmleyou_springBootday01_02Springboot_Demo" />
+        <module name="hmleyou_springBootday02_01Springboot_PutInto01" />
+        <module name="hmleyou_springBootday03_02Springboot_Mybatis" />
+        <module name="hm_springbootday02_01springboot_mybatis" />
+        <module name="hmleyou_springBootday02_02Springboot_PutInto02" />
+        <module name="hmleyou_springBootday03_01Springboot_SpringMVC" />
+        <module name="hm_springBootday01_01Springboot_Demo" />
+        <module name="hmleyou_springBootday02_03Springboot_PutInto03" />
+        <module name="hmleyou_springBootday02_04Springboot_PutInto04" />
+        <module name="hmleyou_springBootday03_03Springboot_TotalSSM" />
+        <module name="hm_springbootday03_01springboot_jpa" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="hmleyou_springBootday02_01Springboot_PutInto" target="1.8" />
+      <module name="hmleyou_springBootday03_02Springboot_TotalSSM" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="hm_springBootday01_01Springboot_Demo" options="-parameters" />
+      <module name="hm_springbootday02_01springboot_mybatis" options="-parameters" />
+      <module name="hm_springbootday03_01springboot_jpa" options="-parameters" />
+      <module name="hmleyou_springBootday01_01Springboot_Demo" options="-parameters" />
+      <module name="hmleyou_springBootday01_02Springboot_Demo" options="-parameters" />
+      <module name="hmleyou_springBootday01_02Springboot_DemoPlus" options="-parameters" />
+      <module name="hmleyou_springBootday02_01Springboot_PutInto" options="-parameters" />
+      <module name="hmleyou_springBootday02_01Springboot_PutInto01" options="-parameters" />
+      <module name="hmleyou_springBootday02_02Springboot_PutInto02" options="-parameters" />
+      <module name="hmleyou_springBootday02_03Springboot_PutInto03" options="-parameters" />
+      <module name="hmleyou_springBootday02_04Springboot_PutInto04" options="-parameters" />
+      <module name="hmleyou_springBootday03_01Springboot_SpringMVC" options="-parameters" />
+      <module name="hmleyou_springBootday03_02Springboot_Mybatis" options="-parameters" />
+      <module name="hmleyou_springBootday03_02Springboot_TotalSSM" options="-parameters" />
+      <module name="hmleyou_springBootday03_03Springboot_TotalSSM" options="-parameters" />
+      <module name="hmleyou_springBootday03_04Springboot_Thymeleaf" options="-parameters" />
+      <module name="maven_springBoot" options="-parameters" />
+    </option>
+  </component>
+</project>

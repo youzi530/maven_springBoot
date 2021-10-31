@@ -1,0 +1,15 @@
+@RestController
+
+@EnableAutoConfiguration 开启springboot的自动配置，并且根据你引入的依赖来生效对应的默认配置
+@ComponentScan
+@SpringBootApplication  *
+
+@SpringBootConfiguration
+@Configuration *
+
+@PropertySource
+@Bean * 把方法的返回值注入到spring容器中
+@Value
+
+@ConfigurationProperties *  申明一个类是一个属性读取类，读取配置文件的内容（读取默认的配置文件）
+@EnableConfigurationProperties 开启上面那个注解的读取

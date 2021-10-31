@@ -1,0 +1,22 @@
+整合springMVC
+    1、修改端口
+    2、访问静态资源
+    3、拦截器：
+        自定义拦截器：实现HandlerInterceptor接口
+        配置拦截器：自定义一个java配置类，实现webMvcConfigurer接口
+
+整合数据源
+    1、引入jdbc启动器和mysql的驱动
+    2、添加配置，以及四大参数
+
+整合mybatis
+    1、引入启动器
+    2、添加配置，覆盖默认配置
+    3、定义一个接口，在接口上添加@Mapper接口
+
+整合通用mapper
+    1、引入启动器
+    2、接口继承Mapper<User>
+
+整合事务
+    添加@Transctional

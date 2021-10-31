@@ -1,0 +1,5 @@
+四种方式：
+1、使用@Autowired注入
+2、构造方法注入
+3、@Bean方法形参注入
+4、直接在@Bean方法上使用@ConfigurationProperties(prefix = "jdbc")

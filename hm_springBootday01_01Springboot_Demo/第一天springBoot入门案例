@@ -1,0 +1,109 @@
+一、springboot案例入门
+    1、创建maven工程
+    2、添加springboot的起步依赖
+        <!--SpringBoot要求，项目要继承SpringBoot的起步依赖spring-boot-starter-parent-->
+        <parent>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-parent</artifactId>
+            <version>2.0.1.RELEASE</version>
+        </parent>
+
+        <dependencies>
+            <!--SpringBoot要集成SpringMVC进行Controller的开发，所以项目要导入web的启动依赖-->
+            <dependency>
+                <groupId>org.springframework.boot</groupId>
+                <artifactId>spring-boot-starter-web</artifactId>
+            </dependency>
+
+            <!--热部署配置-->
+            <dependency>
+                <groupId>org.springframework.boot</groupId>
+                <artifactId>spring-boot-devtools</artifactId>
+            </dependency>
+
+        </dependencies>
+    3、编写springboot的引导类
+        //声明该类是一个springboot的引导类
+        @SpringBootApplication
+        public class MySpringBootApplication {
+            public static void main(String[] args) {
+                //run方法：表示运行springboot的引导，run方法的参数就是springboot引导类的字节码对象
+                SpringApplication.run(MySpringBootApplication.class);
+            }
+        }
+    4、编写controller类
+        @Controller
+        public class QuickController {
+
+            @RequestMapping("/quick")
+            @ResponseBody
+            public String quick(){
+                return "hello quick springboot";
+            }
+        }
+    5、测试
+
+
+二、原理分析
+    1、SpringBoot要求，项目要继承SpringBoot的起步依赖spring-boot-starter-parent
+    2、SpringBoot要集成SpringMVC进行Controller的开发，所以项目要导入web的启动依赖
+    3、声明该类是一个springboot的引导类
+
+三、书写yml文件
+    1、
+    2、
+    3、
+    4、
+
+四、读取配置文件
+    方式一：
+        @Controller
+        public class Yml1Controller {
+
+            @Value("${name}")
+            private String name;
+
+            @Value("{person.addr}")
+            private String addr;
+
+            @RequestMapping("/yml1Test")
+            @ResponseBody
+            public String ymlTest(){
+                //获取配置文件的信息
+                System.out.println(name);
+                return "name:"+name;
+            }
+        }
+    方式二：
+        @Controller
+        @ConfigurationProperties(prefix = "person")
+        public class YmlController {
+
+            private String name;
+            private String addr;
+
+            @RequestMapping("/ymlTest")
+            @ResponseBody
+            public String ymlTest(){
+                //获取配置文件的信息
+                System.out.println(name);
+                return "name:"+name;
+            }
+
+            public String getName() {
+                return name;
+            }
+
+            public void setName(String name) {
+                this.name = name;
+            }
+
+            public String getAddr() {
+                return addr;
+            }
+
+            public void setAddr(String addr) {
+                this.addr = addr;
+            }
+        }
+
