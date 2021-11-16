@@ -11,7 +11,7 @@ import javax.sql.DataSource;
  * @Author lingqiao
  * @Date 2020/6/26
  * @Version 1.0
- * @Description  构造方法的方式注入数据
+ * @Description  bean方法的形参的方式注入数据
  */
 @Configuration
 @EnableConfigurationProperties(JdbcProperties.class)  //启动JdbcProperties中的@ConfigurationProperties(prefix = "jdbc")

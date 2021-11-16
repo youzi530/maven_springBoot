@@ -8,7 +8,7 @@ import org.springframework.boot.context.properties.ConfigurationProperties;
  * @Version 1.0
  * @Description
  */
-@ConfigurationProperties(prefix = "jdbc") //去application.properties中读取以jdbc开头的参数，并使用set和get方法来获取！
+@ConfigurationProperties(prefix = "jdbc") //去application.properties中读取以jdbc开头的参数，并使用set和get方法来获取！ prefix代表索引xxxx开头的
 public class JdbcProperties {
 
     private String driverClassName;

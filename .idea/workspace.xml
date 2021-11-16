@@ -5,30 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a4edeba3-04e8-4a87-8a52-c272ffb8d7e8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/3b0ae6b5-c1b0-45ec-a056-e3f42b5f236c.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/3b0ae6b5-c1b0-45ec-a056-e3f42b5f236c.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hm_springbootday02_01springboot_mybatis/hm_springbootday02_01springboot_mybatis.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hm_springbootday03_01springboot_jpa/hm_springbootday03_01springboot_jpa.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hmleyou_springBootday01_01Springboot_Demo/hmleyou_springBootday01_01Springboot_Demo.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hmleyou_springBootday01_01Springboot_Demo/target/classes/META-INF/hmleyou_springBootday01_01Springboot_Demo.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hmleyou_springBootday01_02Springboot_Demo/hmleyou_springBootday01_02Springboot_Demo.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hmleyou_springBootday01_02Springboot_Demo/src/main/java/com/TestApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/hmleyou_springBootday01_02Springboot_Demo/src/main/java/com/TestApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hmleyou_springBootday01_02Springboot_Demo/src/main/resources/jdbc.properties" beforeDir="false" afterPath="$PROJECT_DIR$/hmleyou_springBootday01_02Springboot_Demo/src/main/resources/jdbc.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hmleyou_springBootday01_02Springboot_Demo/target/classes/jdbc.properties" beforeDir="false" afterPath="$PROJECT_DIR$/hmleyou_springBootday01_02Springboot_Demo/target/classes/jdbc.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hmleyou_springBootday01_02Springboot_DemoPlus/hmleyou_springBootday01_02Springboot_DemoPlus.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hmleyou_springBootday01_02Springboot_DemoPlus/target/classes/META-INF/hmleyou_springBootday01_02Springboot_DemoPlus.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hmleyou_springBootday02_01Springboot_PutInto01/hmleyou_springBootday02_01Springboot_PutInto01.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hmleyou_springBootday02_03Springboot_PutInto03/hmleyou_springBootday02_03Springboot_PutInto03.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hmleyou_springBootday03_01Springboot_SpringMVC/hmleyou_springBootday03_01Springboot_SpringMVC.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hmleyou_springBootday03_02Springboot_Mybatis/hmleyou_springBootday03_02Springboot_Mybatis.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hmleyou_springBootday03_03Springboot_TotalSSM/hmleyou_springBootday03_03Springboot_TotalSSM.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hmleyou_springBootday03_04Springboot_Thymeleaf/hmleyou_springBootday03_04Springboot_Thymeleaf.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/maven_springBoot.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/乐优上课资料/注解总结" beforeDir="false" afterPath="$PROJECT_DIR$/乐优上课资料/注解总结" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hmleyou_springBootday01_02Springboot_DemoPlus/src/main/java/com/config/JdbcProperties.java" beforeDir="false" afterPath="$PROJECT_DIR$/hmleyou_springBootday01_02Springboot_DemoPlus/src/main/java/com/config/JdbcProperties.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hmleyou_springBootday02_03Springboot_PutInto03/src/main/java/com/config/JdbcConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/hmleyou_springBootday02_03Springboot_PutInto03/src/main/java/com/config/JdbcConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hmleyou_springBootday02_04Springboot_PutInto04/spring第四种注入方式" beforeDir="false" afterPath="$PROJECT_DIR$/hmleyou_springBootday02_04Springboot_PutInto04/spring第四种注入方式" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hmleyou_springBootday03_03Springboot_TotalSSM/src/main/java/com/user/pojo/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/hmleyou_springBootday03_03Springboot_TotalSSM/src/main/java/com/user/pojo/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hmleyou_springBootday03_03Springboot_TotalSSM/src/main/java/com/user/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/hmleyou_springBootday03_03Springboot_TotalSSM/src/main/java/com/user/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hmleyou_springBootday03_03Springboot_TotalSSM/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/hmleyou_springBootday03_03Springboot_TotalSSM/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hmleyou_springBootday03_03Springboot_TotalSSM/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/hmleyou_springBootday03_03Springboot_TotalSSM/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hmleyou_springBootday03_03Springboot_TotalSSM/target/classes/com/user/pojo/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/hmleyou_springBootday03_03Springboot_TotalSSM/target/classes/com/user/pojo/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hmleyou_springBootday03_03Springboot_TotalSSM/target/classes/com/user/service/UserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/hmleyou_springBootday03_03Springboot_TotalSSM/target/classes/com/user/service/UserService.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +46,26 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/hmleyou_springBootday03_02Springboot_Mybatis/pom.xml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/hmleyou_springBootday03_01Springboot_SpringMVC/src/main/resources/static/common.js" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/hmleyou_springBootday03_01Springboot_SpringMVC/src/main/java/com/user/controller/UserController.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/hmleyou_springBootday03_01Springboot_SpringMVC/src/main/java/com/user/config/WebMvcConfiguration.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/hmleyou_springBootday03_01Springboot_SpringMVC/src/main/resources/application.properties" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/hmleyou_springBootday03_01Springboot_SpringMVC/src/main/java/com/user/interceptor/MyInterceptor.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/hmleyou_springBootday03_03Springboot_TotalSSM/src/main/java/com/user/UserApplication.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/hmleyou_springBootday03_01Springboot_SpringMVC/src/main/java/com/user/UserApplication.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/hmleyou_springBootday03_03Springboot_TotalSSM/src/main/java/com/user/pojo/User.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/hmleyou_springBootday02_03Springboot_PutInto03/src/main/java/com/config/JdbcProperties.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/hmleyou_springBootday03_03Springboot_TotalSSM/src/main/java/com/user/controller/UserController.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/hmleyou_springBootday03_03Springboot_TotalSSM/src/main/java/com/user/interceptor/MyInterceptor.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/hmleyou_springBootday03_03Springboot_TotalSSM/src/main/java/com/user/mapper/UserMapper.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/hmleyou_springBootday03_03Springboot_TotalSSM/src/main/java/com/user/service/UserService.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/hmleyou_springBootday03_03Springboot_TotalSSM/src/main/resources/application.properties" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/hmleyou_springBootday02_04Springboot_PutInto04/spring第四种注入方式" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/hmleyou_springBootday02_04Springboot_PutInto04/src/main/java/com/config/JdbcConfiguration.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/hmleyou_springBootday03_02Springboot_Mybatis/src/main/java/com/user/mapper/UserMapper.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -271,7 +278,7 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.TestApplication">
+  <component name="RunManager" selected="Spring Boot.UserApplication (1)">
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -297,15 +304,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MySpringBootApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="hm_springBootday01_01Springboot_Demo" />
+    <configuration name="TestApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="hmleyou_springBootday01_02Springboot_DemoPlus" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.MySpringBootApplication" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.TestApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -337,7 +344,7 @@
       </method>
     </configuration>
     <configuration name="UserApplication (2)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="hmleyou_springBootday03_04Springboot_Thymeleaf" />
+      <module name="hmleyou_springBootday03_02Springboot_Mybatis" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.user.*" />
@@ -365,19 +372,19 @@
     <list>
       <item itemvalue="Spring Boot.HmSpringbootday0301springbootJpaApplication" />
       <item itemvalue="Spring Boot.HmSpringbootday0201springbootMybatisApplication" />
+      <item itemvalue="Spring Boot.TestApplication" />
+      <item itemvalue="Spring Boot.TestApplication (1)" />
       <item itemvalue="Spring Boot.UserApplication" />
       <item itemvalue="Spring Boot.UserApplication (1)" />
       <item itemvalue="Spring Boot.UserApplication (2)" />
-      <item itemvalue="Spring Boot.MySpringBootApplication" />
-      <item itemvalue="Spring Boot.TestApplication" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Spring Boot.TestApplication" />
-        <item itemvalue="Spring Boot.MySpringBootApplication" />
-        <item itemvalue="Spring Boot.UserApplication (2)" />
         <item itemvalue="Spring Boot.UserApplication (1)" />
+        <item itemvalue="Spring Boot.UserApplication (2)" />
         <item itemvalue="Spring Boot.UserApplication" />
+        <item itemvalue="Spring Boot.TestApplication (1)" />
+        <item itemvalue="Spring Boot.TestApplication" />
       </list>
     </recent_temporary>
   </component>
@@ -426,7 +433,7 @@
       <workItem from="1594286924232" duration="120000" />
       <workItem from="1594526414384" duration="1314000" />
       <workItem from="1612363611246" duration="1350000" />
-      <workItem from="1636419399839" duration="5679000" />
+      <workItem from="1636419399839" duration="14153000" />
     </task>
     <servers />
   </component>
@@ -576,6 +583,11 @@
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/hmleyou_springBootday01_02Springboot_DemoPlus/src/main/java/com/controller/HelloWord1Controller.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
