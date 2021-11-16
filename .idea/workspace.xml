@@ -1,26 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="a4edeba3-04e8-4a87-8a52-c272ffb8d7e8" name="Default Changelist" comment="" />
-    <ignored path="$PROJECT_DIR$/out/" />
-    <ignored path="$PROJECT_DIR$/target/" />
-    <ignored path="$PROJECT_DIR$/hm_springBootday01_01Springboot_Demo/target/" />
-    <ignored path="$PROJECT_DIR$/hm_springbootday02_01springboot_mybatis/target/" />
-    <ignored path="$PROJECT_DIR$/hm_springbootday03_01springboot_jpa/target/" />
-    <ignored path="$PROJECT_DIR$/hmleyou_springBootday01_01Springboot_Demo/target/" />
-    <ignored path="$PROJECT_DIR$/hmleyou_springBootday01_02Springboot_Demo/target/" />
-    <ignored path="$PROJECT_DIR$/hmleyou_springBootday01_02Springboot_DemoPlus/target/" />
-    <ignored path="$PROJECT_DIR$/hmleyou_springBootday02_01Springboot_PutInto/target/" />
-    <ignored path="$PROJECT_DIR$/hmleyou_springBootday02_01Springboot_PutInto01/target/" />
-    <ignored path="$PROJECT_DIR$/hmleyou_springBootday02_02Springboot_PutInto02/target/" />
-    <ignored path="$PROJECT_DIR$/hmleyou_springBootday02_03Springboot_PutInto03/target/" />
-    <ignored path="$PROJECT_DIR$/hmleyou_springBootday02_04Springboot_PutInto04/target/" />
-    <ignored path="$PROJECT_DIR$/hmleyou_springBootday03_01Springboot_SpringMVC/target/" />
-    <ignored path="$PROJECT_DIR$/hmleyou_springBootday03_02Springboot_Mybatis/target/" />
-    <ignored path="$PROJECT_DIR$/hmleyou_springBootday03_02Springboot_TotalSSM/target/" />
-    <ignored path="$PROJECT_DIR$/hmleyou_springBootday03_03Springboot_TotalSSM/target/" />
-    <ignored path="$PROJECT_DIR$/hmleyou_springBootday03_04Springboot_Thymeleaf/target/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="a4edeba3-04e8-4a87-8a52-c272ffb8d7e8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hm_springbootday02_01springboot_mybatis/hm_springbootday02_01springboot_mybatis.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hm_springbootday03_01springboot_jpa/hm_springbootday03_01springboot_jpa.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hmleyou_springBootday01_01Springboot_Demo/hmleyou_springBootday01_01Springboot_Demo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hmleyou_springBootday01_01Springboot_Demo/target/classes/META-INF/hmleyou_springBootday01_01Springboot_Demo.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hmleyou_springBootday01_02Springboot_Demo/hmleyou_springBootday01_02Springboot_Demo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hmleyou_springBootday01_02Springboot_Demo/src/main/java/com/TestApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/hmleyou_springBootday01_02Springboot_Demo/src/main/java/com/TestApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hmleyou_springBootday01_02Springboot_Demo/src/main/resources/jdbc.properties" beforeDir="false" afterPath="$PROJECT_DIR$/hmleyou_springBootday01_02Springboot_Demo/src/main/resources/jdbc.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hmleyou_springBootday01_02Springboot_Demo/target/classes/jdbc.properties" beforeDir="false" afterPath="$PROJECT_DIR$/hmleyou_springBootday01_02Springboot_Demo/target/classes/jdbc.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hmleyou_springBootday01_02Springboot_DemoPlus/hmleyou_springBootday01_02Springboot_DemoPlus.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hmleyou_springBootday01_02Springboot_DemoPlus/target/classes/META-INF/hmleyou_springBootday01_02Springboot_DemoPlus.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hmleyou_springBootday02_01Springboot_PutInto01/hmleyou_springBootday02_01Springboot_PutInto01.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hmleyou_springBootday02_03Springboot_PutInto03/hmleyou_springBootday02_03Springboot_PutInto03.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hmleyou_springBootday03_01Springboot_SpringMVC/hmleyou_springBootday03_01Springboot_SpringMVC.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hmleyou_springBootday03_02Springboot_Mybatis/hmleyou_springBootday03_02Springboot_Mybatis.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hmleyou_springBootday03_03Springboot_TotalSSM/hmleyou_springBootday03_03Springboot_TotalSSM.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hmleyou_springBootday03_04Springboot_Thymeleaf/hmleyou_springBootday03_04Springboot_Thymeleaf.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/maven_springBoot.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/乐优上课资料/注解总结" beforeDir="false" afterPath="$PROJECT_DIR$/乐优上课资料/注解总结" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,9 +40,6 @@
   </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -50,6 +56,9 @@
       <find>server.po</find>
       <find>SpringBootConfiguration</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -111,14 +120,12 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="localRepository" value="F:\study\java\maven_repository" />
-        <option name="mavenHome" value="E:/Applications/apache-maven-3.6.1" />
-        <option name="userSettingsFile" value="E:\Applications\apache-maven-3.6.1\conf\settings.xml" />
+        <option name="mavenHome" value="/usr/local/Cellar/maven/3.8.2/libexec" />
       </MavenGeneralSettings>
     </option>
     <option name="importingSettings">
       <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
+        <option name="jdkForImporter" value="1.8" />
         <option name="vmOptionsForImporter" value="-Xmx768m" />
       </MavenImportingSettings>
     </option>
@@ -140,7 +147,7 @@
     </treeState>
   </component>
   <component name="MavenRunner">
-    <option name="jreName" value="#JAVA_HOME" />
+    <option name="jreName" value="1.8" />
     <option name="vmOptions" value="-DarchetypeCatalog=internal" />
   </component>
   <component name="ProjectFrameBounds" extendedState="7">
@@ -149,6 +156,7 @@
     <option name="width" value="1490" />
     <option name="height" value="959" />
   </component>
+  <component name="ProjectId" id="20eyYsr0KTZysUngMG8KNNgDVDI" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <showExcludedFiles Scope="false" ProjectPane="false" />
@@ -201,12 +209,20 @@
       </pane>
     </panes>
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -218,10 +234,11 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.16125" />
     <property name="project.structure.side.proportion" value="0.58943087" />
-    <property name="settings.editor.selected.configurable" value="leetcode.id" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RebelAgentSelection">
     <selection>jr</selection>
@@ -253,18 +270,19 @@
         <option value="SpringBootApplicationConfigurationType" />
       </set>
     </option>
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.UserApplication (2)">
+  <component name="RunManager" selected="Spring Boot.TestApplication">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="HmSpringbootday0201springbootMybatisApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="hm_springbootday02_01springboot_mybatis" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.hm.HmSpringbootday0201springbootMybatisApplication" />
@@ -279,21 +297,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestApplication (4)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="hmleyou_springBootday02_03Springboot_PutInto03" />
+    <configuration name="MySpringBootApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="hm_springBootday01_01Springboot_Demo" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.TestApplication" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.MySpringBootApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestApplication (5)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="hmleyou_springBootday02_04Springboot_PutInto04" />
+    <configuration name="TestApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="hmleyou_springBootday01_02Springboot_Demo" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.*" />
@@ -347,22 +365,23 @@
     <list>
       <item itemvalue="Spring Boot.HmSpringbootday0301springbootJpaApplication" />
       <item itemvalue="Spring Boot.HmSpringbootday0201springbootMybatisApplication" />
-      <item itemvalue="Spring Boot.TestApplication (4)" />
-      <item itemvalue="Spring Boot.TestApplication (5)" />
       <item itemvalue="Spring Boot.UserApplication" />
       <item itemvalue="Spring Boot.UserApplication (1)" />
       <item itemvalue="Spring Boot.UserApplication (2)" />
+      <item itemvalue="Spring Boot.MySpringBootApplication" />
+      <item itemvalue="Spring Boot.TestApplication" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Spring Boot.TestApplication" />
+        <item itemvalue="Spring Boot.MySpringBootApplication" />
         <item itemvalue="Spring Boot.UserApplication (2)" />
         <item itemvalue="Spring Boot.UserApplication (1)" />
         <item itemvalue="Spring Boot.UserApplication" />
-        <item itemvalue="Spring Boot.TestApplication (5)" />
-        <item itemvalue="Spring Boot.TestApplication (4)" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SpringBootOptions">
     <option name="showAdditionalConfigNotification" value="false" />
   </component>
@@ -407,6 +426,7 @@
       <workItem from="1594286924232" duration="120000" />
       <workItem from="1594526414384" duration="1314000" />
       <workItem from="1612363611246" duration="1350000" />
+      <workItem from="1636419399839" duration="5679000" />
     </task>
     <servers />
   </component>
@@ -525,7 +545,18 @@
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

@@ -9,12 +9,6 @@
         <option value="$PROJECT_DIR$/hm_springbootday03_01springboot_jpa/pom.xml" />
       </list>
     </option>
-    <option name="ignoredFiles">
-      <set>
-        <option value="$PROJECT_DIR$/hmleyou_springBootday02_01Springboot_PutInto/pom.xml" />
-        <option value="$PROJECT_DIR$/hmleyou_springBootday03_02Springboot_TotalSSM/pom.xml" />
-      </set>
-    </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />

@@ -12,8 +12,8 @@ import org.springframework.context.annotation.ComponentScan;
  * @Description
  */
 
-//@EnableAutoConfiguration
-//@ComponentScan
+//@EnableAutoConfiguration  //启动自动配置
+//@ComponentScan   //这里也可以写路径
 @SpringBootApplication
 public class TestApplication {
 
