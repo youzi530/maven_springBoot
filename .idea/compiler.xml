@@ -7,19 +7,20 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="hmleyou_springBootday03_04Springboot_Thymeleaf" />
-        <module name="hmleyou_springBootday01_02Springboot_DemoPlus" />
-        <module name="hmleyou_springBootday01_01Springboot_Demo" />
-        <module name="hmleyou_springBootday01_02Springboot_Demo" />
+        <module name="hmleyou_springBootday02_03Springboot_PutInto03" />
+        <module name="hm_springbootday03_01springboot_jpa" />
+        <module name="hmleyou_springBootday04_01RestTemplat" />
         <module name="hmleyou_springBootday02_01Springboot_PutInto01" />
+        <module name="hmleyou_springBootday02_02Springboot_PutInto02" />
+        <module name="hmleyou_springBootday01_02Springboot_Demo" />
         <module name="hmleyou_springBootday03_02Springboot_Mybatis" />
         <module name="hm_springbootday02_01springboot_mybatis" />
-        <module name="hmleyou_springBootday02_02Springboot_PutInto02" />
-        <module name="hmleyou_springBootday03_01Springboot_SpringMVC" />
         <module name="hm_springBootday01_01Springboot_Demo" />
-        <module name="hmleyou_springBootday02_03Springboot_PutInto03" />
-        <module name="hmleyou_springBootday02_04Springboot_PutInto04" />
+        <module name="hmleyou_springBootday01_01Springboot_Demo" />
         <module name="hmleyou_springBootday03_03Springboot_TotalSSM" />
-        <module name="hm_springbootday03_01springboot_jpa" />
+        <module name="hmleyou_springBootday02_04Springboot_PutInto04" />
+        <module name="hmleyou_springBootday01_02Springboot_DemoPlus" />
+        <module name="hmleyou_springBootday03_01Springboot_SpringMVC" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -45,6 +46,7 @@
       <module name="hmleyou_springBootday03_02Springboot_TotalSSM" options="-parameters" />
       <module name="hmleyou_springBootday03_03Springboot_TotalSSM" options="-parameters" />
       <module name="hmleyou_springBootday03_04Springboot_Thymeleaf" options="-parameters" />
+      <module name="hmleyou_springBootday04_01RestTemplat" options="-parameters" />
       <module name="maven_springBoot" options="-parameters" />
     </option>
   </component>

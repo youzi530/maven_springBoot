@@ -5,17 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a4edeba3-04e8-4a87-8a52-c272ffb8d7e8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/3b0ae6b5-c1b0-45ec-a056-e3f42b5f236c.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/3b0ae6b5-c1b0-45ec-a056-e3f42b5f236c.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hmleyou_springBootday04_01RestTemplat/src/main/java/com/example/leyou/httpdemo/HttpDemoApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hmleyou_springBootday04_01RestTemplat/src/main/java/com/example/leyou/httpdemo/pojo/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hmleyou_springBootday04_01RestTemplat/src/test/java/com/example/leyou/httpdemo/HttpDemoApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hmleyou_springBootday04_01RestTemplat/src/test/java/com/example/leyou/httpdemo/HttpTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/d45fea6c-8541-472b-96e3-fa387c35c6a4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/d45fea6c-8541-472b-96e3-fa387c35c6a4/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/d45fea6c-8541-472b-96e3-fa387c35c6a4/storage_v2/_src_/schema/information_schema.FNRwLQ.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/d45fea6c-8541-472b-96e3-fa387c35c6a4/storage_v2/_src_/schema/mysql.osA4Bg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/d45fea6c-8541-472b-96e3-fa387c35c6a4/storage_v2/_src_/schema/performance_schema.kIw0nw.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/d45fea6c-8541-472b-96e3-fa387c35c6a4/storage_v2/_src_/schema/sys.zb4BAA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hmleyou_springBootday01_02Springboot_DemoPlus/src/main/java/com/config/JdbcProperties.java" beforeDir="false" afterPath="$PROJECT_DIR$/hmleyou_springBootday01_02Springboot_DemoPlus/src/main/java/com/config/JdbcProperties.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hmleyou_springBootday02_03Springboot_PutInto03/src/main/java/com/config/JdbcConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/hmleyou_springBootday02_03Springboot_PutInto03/src/main/java/com/config/JdbcConfiguration.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hmleyou_springBootday02_04Springboot_PutInto04/spring第四种注入方式" beforeDir="false" afterPath="$PROJECT_DIR$/hmleyou_springBootday02_04Springboot_PutInto04/spring第四种注入方式" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hmleyou_springBootday03_03Springboot_TotalSSM/src/main/java/com/user/pojo/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/hmleyou_springBootday03_03Springboot_TotalSSM/src/main/java/com/user/pojo/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hmleyou_springBootday03_03Springboot_TotalSSM/src/main/java/com/user/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/hmleyou_springBootday03_03Springboot_TotalSSM/src/main/java/com/user/service/UserService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hmleyou_springBootday03_03Springboot_TotalSSM/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/hmleyou_springBootday03_03Springboot_TotalSSM/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hmleyou_springBootday03_03Springboot_TotalSSM/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/hmleyou_springBootday03_03Springboot_TotalSSM/target/classes/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hmleyou_springBootday03_03Springboot_TotalSSM/target/classes/com/user/pojo/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/hmleyou_springBootday03_03Springboot_TotalSSM/target/classes/com/user/pojo/User.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hmleyou_springBootday03_03Springboot_TotalSSM/target/classes/com/user/service/UserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/hmleyou_springBootday03_03Springboot_TotalSSM/target/classes/com/user/service/UserService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hmleyou_springBootday03_04Springboot_Thymeleaf/src/main/java/com/user/pojo/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/hmleyou_springBootday03_04Springboot_Thymeleaf/src/main/java/com/user/pojo/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hmleyou_springBootday03_04Springboot_Thymeleaf/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/hmleyou_springBootday03_04Springboot_Thymeleaf/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hmleyou_springBootday03_04Springboot_Thymeleaf/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/hmleyou_springBootday03_04Springboot_Thymeleaf/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hmleyou_springBootday03_04Springboot_Thymeleaf/target/classes/com/user/pojo/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/hmleyou_springBootday03_04Springboot_Thymeleaf/target/classes/com/user/pojo/User.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -232,7 +239,8 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/hmleyou_springBootday04_01RestTemplat/src/test/java/com/example/leyou" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -251,6 +259,13 @@
     <selection>jr</selection>
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/hmleyou_springBootday04_01RestTemplat/src/test/java/com/example/leyou" />
+      <recent name="$PROJECT_DIR$/hmleyou_springBootday04_01RestTemplat/src/main/java/com/example/leyou" />
+      <recent name="F:\study\java\IdeaProjects\maven_springBoot\hmleyou_springBootday03_04Springboot_Thymeleaf\src\main\java" />
+      <recent name="F:\study\java\IdeaProjects\maven_springBoot\hmleyou_springBootday03_04Springboot_Thymeleaf\src\main\resources" />
+      <recent name="F:\study\java\IdeaProjects\maven_springBoot\乐优上课资料" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="F:\study\java\IdeaProjects\maven_springBoot\乐优上课资料" />
       <recent name="F:\study\java\IdeaProjects\maven_springBoot\src\main\java\test" />
@@ -263,13 +278,6 @@
       <recent name="com" />
       <recent name="controller" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\study\java\IdeaProjects\maven_springBoot\hmleyou_springBootday03_04Springboot_Thymeleaf\src\main\java" />
-      <recent name="F:\study\java\IdeaProjects\maven_springBoot\hmleyou_springBootday03_04Springboot_Thymeleaf\src\main\resources" />
-      <recent name="F:\study\java\IdeaProjects\maven_springBoot\乐优上课资料" />
-      <recent name="F:\study\java\IdeaProjects\maven_springBoot\hmleyou_springBootday03_03Springboot_TotalSSM\src\main\resources" />
-      <recent name="F:\study\java\IdeaProjects\maven_springBoot\hmleyou_springBootday03_03Springboot_TotalSSM\src\main\java" />
-    </key>
   </component>
   <component name="RunDashboard">
     <option name="configurationTypes">
@@ -278,14 +286,64 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.UserApplication (1)">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.HttpDemoApplicationTests.httpGet">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HttpDemoApplicationTests.httpGet" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hmleyou_springBootday04_01RestTemplat" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.leyou.httpdemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.leyou.httpdemo" />
+      <option name="MAIN_CLASS_NAME" value="com.example.leyou.httpdemo.HttpDemoApplicationTests" />
+      <option name="METHOD_NAME" value="httpGet" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HttpTests.testGet" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hmleyou_springBootday04_01RestTemplat" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.leyou.httpdemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.leyou.httpdemo" />
+      <option name="MAIN_CLASS_NAME" value="com.example.leyou.httpdemo.HttpTests" />
+      <option name="METHOD_NAME" value="testGet" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HttpTests.testPost" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hmleyou_springBootday04_01RestTemplat" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.leyou.httpdemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.leyou.httpdemo" />
+      <option name="MAIN_CLASS_NAME" value="com.example.leyou.httpdemo.HttpTests" />
+      <option name="METHOD_NAME" value="testPost" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -304,28 +362,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="hmleyou_springBootday01_02Springboot_DemoPlus" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.TestApplication" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="hmleyou_springBootday01_02Springboot_Demo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.TestApplication" />
+    <configuration name="HmleyouSpringBootday0401RestTemplatApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="hmleyou_springBootday04_01RestTemplat" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.hmleyou_springbootday04_01resttemplat.HmleyouSpringBootday0401RestTemplatApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -343,21 +382,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UserApplication (2)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="hmleyou_springBootday03_02Springboot_Mybatis" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.user.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.user.UserApplication" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="UserApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="hmleyou_springBootday03_01Springboot_SpringMVC" />
+    <configuration name="UserApplication (3)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="hmleyou_springBootday03_04Springboot_Thymeleaf" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.user.*" />
@@ -372,19 +398,20 @@
     <list>
       <item itemvalue="Spring Boot.HmSpringbootday0301springbootJpaApplication" />
       <item itemvalue="Spring Boot.HmSpringbootday0201springbootMybatisApplication" />
-      <item itemvalue="Spring Boot.TestApplication" />
-      <item itemvalue="Spring Boot.TestApplication (1)" />
-      <item itemvalue="Spring Boot.UserApplication" />
       <item itemvalue="Spring Boot.UserApplication (1)" />
-      <item itemvalue="Spring Boot.UserApplication (2)" />
+      <item itemvalue="Spring Boot.UserApplication (3)" />
+      <item itemvalue="Spring Boot.HmleyouSpringBootday0401RestTemplatApplication" />
+      <item itemvalue="JUnit.HttpTests.testGet" />
+      <item itemvalue="JUnit.HttpTests.testPost" />
+      <item itemvalue="JUnit.HttpDemoApplicationTests.httpGet" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.HttpDemoApplicationTests.httpGet" />
+        <item itemvalue="JUnit.HttpTests.testPost" />
+        <item itemvalue="JUnit.HttpTests.testGet" />
+        <item itemvalue="Spring Boot.UserApplication (3)" />
         <item itemvalue="Spring Boot.UserApplication (1)" />
-        <item itemvalue="Spring Boot.UserApplication (2)" />
-        <item itemvalue="Spring Boot.UserApplication" />
-        <item itemvalue="Spring Boot.TestApplication (1)" />
-        <item itemvalue="Spring Boot.TestApplication" />
       </list>
     </recent_temporary>
   </component>
@@ -433,7 +460,8 @@
       <workItem from="1594286924232" duration="120000" />
       <workItem from="1594526414384" duration="1314000" />
       <workItem from="1612363611246" duration="1350000" />
-      <workItem from="1636419399839" duration="14153000" />
+      <workItem from="1636419399839" duration="15240000" />
+      <workItem from="1637115916050" duration="6753000" />
     </task>
     <servers />
   </component>
@@ -564,6 +592,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
